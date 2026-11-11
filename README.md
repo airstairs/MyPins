@@ -1,7 +1,7 @@
 # MyPins
 The most important apps (or front page). 
 
-
+<hr>
 
 
 <a href="https://github.com/airstairs/FlappyBird">FlappyBird</a>
