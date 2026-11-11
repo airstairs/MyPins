@@ -4,10 +4,6 @@ The most important apps (or front page). *special <3
 <hr>
 
 
-<a href="https://github.com/airstairs/FlappyBird">FlappyBird</a>
-<p>FlappyBird for android and also windows</p>
-
-
 <a href="https://github.com/airstairs/Fronts">Fronts</a>
 <p>A macbook battery indicator for your backpack and your purse. Windows and Android</p>
 
