@@ -38,7 +38,7 @@ The most important apps (or front page).
 <p>Easily manage large quantities of devices using Device Manager available for Windows and Android</p>
 
 
-<a href="https://github.com/airstairs/MyNano">MyNano></a>
+<a href="https://github.com/airstairs/MyNano">MyNano</a>
 <p>is spotify iPod, apple?</p>
 
 
